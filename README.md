@@ -1,6 +1,6 @@
 # BCGDV Intern Submission
 
-Initially, I did this submission using Postman
+Initially, I did this submission using Postman then tried it using the Axios library.
 
 1. Submitted a GET request to the URL https://interns.bcgdvsydney.com/apiv1/key and was returned the key in a json object with HTTP Status: 201 Created
 
